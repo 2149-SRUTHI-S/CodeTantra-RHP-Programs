@@ -7,7 +7,7 @@ Your task is to complete function geometricSum with following parameters passed:
 integer k: k is a positive integer defines the limit up to which you have to find the geometric sum.
 Function returns:
 float : Return the geometric sum i.e. as real number.
-
+   
 Constraints to be followed:
 0 <= k <= 100
 Sample test case 1:
