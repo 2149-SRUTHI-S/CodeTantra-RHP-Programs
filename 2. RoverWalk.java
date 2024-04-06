@@ -25,7 +25,7 @@ Output:
 70
 */
 
-// Recursion - Backtracking
+// Recursive Backtracking
 
 import java.util.*;
 public class RoverWalk
