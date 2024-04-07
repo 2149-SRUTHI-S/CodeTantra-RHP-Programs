@@ -1,5 +1,6 @@
-
-<h1>CodeTantra RHP Training Programs</h1>
+ 
+<h2>CodeTantra RHP Training Programs</h2>
+<br>
 <table>
   <tr>
     <th>S.No</th>
