@@ -26,4 +26,7 @@
     <td>5.</td>
     <td>Generate Parantheses using Recursion</td>
   </tr>
+ <td>6.</td>
+    <td>Move Zeros</td>
+  </tr>
 </table>
