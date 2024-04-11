@@ -1,6 +1,6 @@
 /*
 Galaxy of Stars
-
+  
 Three characters { #, *, . } represents a constellation of stars and galaxies in space. Each galaxy is demarcated by # characters. 
 There can be one or many stars in a given galaxy. Stars can only be in the shape of vowels { A, E, I, O, U }. A collection of * in
 the shape of the vowels is a star. A star is contained in a 3×3 block. Stars cannot be overlapping. The dot(.) character denotes 
