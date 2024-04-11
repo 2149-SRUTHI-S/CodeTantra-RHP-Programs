@@ -1,19 +1,5 @@
 /*
-On A Cube
-
-A solid cube of 10 cm x 10cm x 10 cm rests on the ground. It has a beetle on it, and some sweet honey spots at various locations
-on the surface of the cube. The beetle starts at a point on the surface of the cube, and goes to the honey spots in order along 
-the surface of the cube.
-Problem Description
-A solid cube of 10 cm x 10cm x 10 cm rests on the ground. It has a beetle on it, and some sweet honey spots at various locations 
-on the surface of the cube. The beetle starts at a point on the surface of the cube, and goes to the honey spots in order along 
-the surface of the cube.
-
-1. If it goes from a point to another point on the same face (say X to Y), it goes in an arc of a circle that subtends an angle 
-of 60 degrees at the centre of the circle
-2. If it goes from one point to another on a different face, it goes by the shortest path on the surface of the cube, except that
-it never travels along the bottom of the cube.
-
+Galaxy of Stars
 
 Three characters { #, *, . } represents a constellation of stars and galaxies in space. Each galaxy is demarcated by # characters. 
 There can be one or many stars in a given galaxy. Stars can only be in the shape of vowels { A, E, I, O, U }. A collection of * in
