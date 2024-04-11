@@ -21,7 +21,7 @@ public class MoveZeros
     // Greedy Approach - Sorting
     public static void moveZero(int arr[], int n)
     {
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++) { // n^2 times ---> O(n*n)
             for(int j = 0; j < n - i - 1; j++) {
                 if(arr[j] == 0)
                 {
