@@ -20,7 +20,7 @@
   </tr>
  <tr>
     <td>4.</td>
-    <td>On A Cube</td>
+    <td>Galaxy of Stars</td>
   </tr>
  <tr>
     <td>5.</td>
