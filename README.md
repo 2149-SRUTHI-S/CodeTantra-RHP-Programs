@@ -27,6 +27,6 @@
     <td>Generate Parantheses using Recursion</td>
   </tr>
  <td>6.</td>
-    <td>Move Zeros usind 2 Pointer Approach</td>
+    <td>Move Zeros using 2 Pointer Approach</td>
   </tr>
 </table>
