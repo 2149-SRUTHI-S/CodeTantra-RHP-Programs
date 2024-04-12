@@ -2,7 +2,7 @@
 <h2>CodeTantra RHP Training Programs</h2>
 <br>  
 <table>
-  <tr>
+  <tr>       
     <th>S.No</th>
     <th>Program</th>
   </tr> 
