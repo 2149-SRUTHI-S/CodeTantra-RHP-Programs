@@ -29,4 +29,11 @@
  <td>6.</td>
     <td>Move Zeros using 2 Pointer Approach</td>
   </tr>
+ </tr>
+ <td>7.</td>
+    <td>Sliding Window Algorithm</td>
+  </tr>
+ <td>8.</td>
+    <td>Kadane's Algorithm</td>
+  </tr>
 </table>
