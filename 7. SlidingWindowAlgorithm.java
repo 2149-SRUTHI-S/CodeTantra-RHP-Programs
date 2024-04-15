@@ -1,5 +1,5 @@
 /*
-Sliding Window Algorithm
+Sliding Window Algorithm  
 
 Finding MaxSum of subarray with size K | Time Complexity --> O(n-k) 
 where as Brute Force Approach has O(n*k)
