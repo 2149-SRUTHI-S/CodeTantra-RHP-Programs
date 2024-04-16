@@ -1,6 +1,6 @@
 /*
 KMP Algorithm for Pattern Searching
-
+  
 Given a string Text[0...N-1] and a Pattern[0...M-1], print all the occurrences of Pattern in Text
 Time Complexity --> O(N+M)
 
