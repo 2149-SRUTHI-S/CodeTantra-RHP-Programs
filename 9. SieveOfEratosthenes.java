@@ -1,7 +1,7 @@
 /*
 Sieve Of Eratosthenes
 
-Printing Prime Numbers from 2 to N in logn time
+Printing Prime Numbers from less than or equal to N in logn time
 Time complexity --> O(N*log(log(N)))
 
 Input:
