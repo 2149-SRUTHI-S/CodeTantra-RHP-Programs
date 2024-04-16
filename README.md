@@ -36,4 +36,7 @@
  <td>8.</td>
     <td>Kadane's Algorithm</td>
   </tr>
+ <td>9.</td>
+    <td>Sieve Of Eratosthenes</td>
+  </tr>
 </table>
