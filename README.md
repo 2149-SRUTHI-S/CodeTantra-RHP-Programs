@@ -39,4 +39,7 @@
  <td>9.</td>
     <td>Sieve Of Eratosthenes</td>
   </tr>
+ <td>10.</td>
+    <td>KMP Algorithm</td>
+  </tr>
 </table>
