@@ -51,7 +51,7 @@
  <td>13.</td>
     <td>Method Overriding Usecase</td>
   </tr>
- <td>13.</td>
-    <td>Customer Interface</td>
+ <td>14.</td>
+    <td>Customer Interface Usecase</td>
   </tr>
 </table>
