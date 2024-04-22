@@ -42,4 +42,7 @@
  <td>10.</td>
     <td>KMP Algorithm</td>
   </tr>
+ <td>11.</td>
+    <td>Palindrome using Recursion</td>
+  </tr>
 </table>
