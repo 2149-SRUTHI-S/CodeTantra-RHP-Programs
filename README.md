@@ -45,4 +45,13 @@
  <td>11.</td>
     <td>Palindrome using Recursion</td>
   </tr>
+ <td>12.</td>
+    <td>nCr using Recursion</td>
+  </tr>
+ <td>13.</td>
+    <td>Method Overriding Usecase</td>
+  </tr>
+ <td>13.</td>
+    <td>Customer Interface</td>
+  </tr>
 </table>
