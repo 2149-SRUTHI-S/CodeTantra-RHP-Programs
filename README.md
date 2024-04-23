@@ -54,4 +54,10 @@
  <td>14.</td>
     <td>Customer Interface Usecase</td>
   </tr>
+ <td>15.</td>
+    <td>Permutations of a String using Recursion</td>
+  </tr>
+ <td>16.</td>
+    <td>Customer Interface Usecase</td>
+  </tr>
 </table>
