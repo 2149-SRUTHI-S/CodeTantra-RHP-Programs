@@ -58,6 +58,6 @@
     <td>Permutations of a String using Recursion</td>
   </tr>
  <td>16.</td>
-    <td>Customer Interface Usecase</td>
+    <td>Different Number Base</td>
   </tr>
 </table>
