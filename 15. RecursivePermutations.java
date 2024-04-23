@@ -1,7 +1,7 @@
 /*
 Recusrsive logic to generate all permutation of the string 
 
-Problem Statement :
+Problem Statement:
 
 Ashish was copying from Rahit in the exam. So, Rahit told him to change the answers a little bit so that the 
 examiner cannot find the fraud. But silly Ashish in the way started to change all the answers that were needed. 
