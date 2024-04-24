@@ -1,6 +1,5 @@
 /* 
-Naive Approach for Subset Problem
-O(n x m) Time complexity
+Subset Problem
 
 Sample Input1:
 6
@@ -10,14 +9,20 @@ Sample Input1:
 
 Sample Output1:
 True
-  
+
+Sample Input2:
 6
 4
 1 2 1 2 1 2
 2 2 2 2
+
+Sample Output2:
 True
 
 */
+
+// Naive Approach for Subset Problem
+// O(n x m) Time complexity
 
 import java.util.*;
 public class Main {
