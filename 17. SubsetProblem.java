@@ -1,6 +1,6 @@
 /* 
 Subset Problem
-
+      
 Sample Input1:
 6
 5
