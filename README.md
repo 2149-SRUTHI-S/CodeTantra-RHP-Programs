@@ -63,4 +63,7 @@
  <td>17.</td>
     <td>Subset Problem</td>
   </tr>
+    <td>18.</td>
+    <td>Linked List Operations (Union & Intersection)</td>
+  </tr>
 </table>
