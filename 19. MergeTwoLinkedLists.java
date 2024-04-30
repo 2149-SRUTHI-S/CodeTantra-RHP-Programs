@@ -25,7 +25,7 @@ class Node {
     }
 }
 
-public class Main {
+public class MergeTwoLinkedLists {
     
     public static Node mergeLists(Node head1, Node head2) {
         Node dummy = new Node(0);
