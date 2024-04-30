@@ -66,8 +66,15 @@
     <td>18.</td>
     <td>Linked List Operations (Union & Intersection)</td>
   </tr>
-       </tr>
+</tr>
  <td>19.</td>
     <td>Merge Two Linked Lists</td>
+  </tr>
+</tr>
+ <td>20.</td>
+    <td>Linked List Matrix</td>
+  </tr>
+    <td>21.</td>
+    <td>Merge K Sorted Linked Lists</td>
   </tr>
 </table>
