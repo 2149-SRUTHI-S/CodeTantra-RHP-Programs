@@ -77,4 +77,11 @@
     <td>21.</td>
     <td>Merge K Sorted Linked Lists</td>
   </tr>
+       <td>22.</td>
+    <td>Add & Subtract Big Numbers (LL)</td>
+  </tr>
+       </tr>
+       <td>23.</td>
+    <td>Prime or Not (LL)</td>
+  </tr>
 </table>
