@@ -83,4 +83,9 @@
        <td>23.</td>
     <td>Prime or Not (LL)</td>
   </tr>
+  </tr>
+       </tr>
+       <td>24.</td>
+    <td>Binary Search Tree</td>
+  </tr>
 </table>
