@@ -1,5 +1,5 @@
 /* Balanced Binary Search Tree(BST) using AVL Tree */
-     
+       
 import java.util.*;
 
 class Node {
