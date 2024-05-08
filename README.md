@@ -88,4 +88,9 @@
        <td>24.</td>
     <td>Binary Search Tree</td>
   </tr>
+  </tr>
+       </tr>
+       <td>25.</td>
+    <td>Balanced BST using AVL</td>
+  </tr>
 </table>
