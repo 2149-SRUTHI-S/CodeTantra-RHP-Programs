@@ -93,4 +93,9 @@
        <td>25.</td>
     <td>Balanced BST using AVL</td>
   </tr>
+  </tr>
+       </tr>
+       <td>26.</td>
+    <td>Range Min Queries using Segment Tree</td>
+  </tr>
 </table>
