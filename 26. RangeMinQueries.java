@@ -1,5 +1,5 @@
 /* Finding range min queries using Segment Tree in T*logn */
-
+   
 import java.util.*;
 
 class Main {
