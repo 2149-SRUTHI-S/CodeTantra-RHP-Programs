@@ -98,4 +98,9 @@
        <td>26.</td>
     <td>Range Min Queries using Segment Tree</td>
   </tr>
+  </tr>
+       </tr>
+       <td>27.</td>
+    <td>BFS and DFS Traversal</td>
+  </tr>
 </table>
