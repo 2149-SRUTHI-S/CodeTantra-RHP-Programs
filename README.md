@@ -4,8 +4,8 @@
   <tr>         
     <th>S.No</th>  
     <th>Program</th>
-  </tr> 
-  <tr>
+  </tr>    
+  <tr>   
     <td>1.</td>
     <td>Geometric Sum using Recursion</td>
   </tr>
