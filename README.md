@@ -100,7 +100,12 @@
   </tr>
   </tr>
        </tr>
-       <td>27.</td>
+       <td>28.</td>
     <td>BFS and DFS Traversal</td>
+  </tr>
+  </tr>
+       </tr>
+       <td>27.</td>
+    <td>Union Find Algorithm</td>
   </tr>
 </table>
