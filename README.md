@@ -113,4 +113,9 @@
        <td>29.</td>
     <td>Kruskal's Algorithm</td>
   </tr>
+  </tr>
+       </tr>
+       <td>30.</td>
+    <td>Prim's Algorithm</td>
+  </tr>
 </table>
