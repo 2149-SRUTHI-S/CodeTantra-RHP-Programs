@@ -108,4 +108,9 @@
        <td>28.</td>
     <td>Union Find Algorithm</td>
   </tr>
+  </tr>
+       </tr>
+       <td>29.</td>
+    <td>Kruskal's Algorithm</td>
+  </tr>
 </table>
