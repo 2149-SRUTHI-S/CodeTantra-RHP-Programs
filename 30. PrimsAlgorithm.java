@@ -2,6 +2,7 @@
 Prim's Algorithm
 
 Follow the given steps to utilize the Prim’s Algorithm mentioned above for finding MST of a graph:
+
 • Create a set mstSet that keeps track of vertices already included in MST.
 • Assign a key value to all vertices in the input graph. Initialize all key values as INFINITE. Assign the key value as 0 for the first vertex so that it is picked first.
 • While mstSet doesn’t include all vertices
