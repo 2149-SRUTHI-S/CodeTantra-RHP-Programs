@@ -118,4 +118,9 @@
        <td>30.</td>
     <td>Prim's Algorithm</td>
   </tr>
+  </tr>
+       </tr>
+       <td>31.</td>
+    <td>Dijkstra's Algorithm</td>
+  </tr>
 </table>
