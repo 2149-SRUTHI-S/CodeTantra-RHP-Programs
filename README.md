@@ -123,4 +123,9 @@
        <td>31.</td>
     <td>Dijkstra's Algorithm</td>
   </tr>
+  </tr>
+       </tr>
+       <td>32.</td>
+    <td>Topological Sort</td>
+  </tr>
 </table>
