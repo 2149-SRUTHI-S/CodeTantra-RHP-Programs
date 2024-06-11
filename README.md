@@ -128,4 +128,9 @@
        <td>32.</td>
     <td>Topological Sort</td>
   </tr>
+  </tr>
+       </tr>
+       <td>33.</td>
+    <td>Cycle Detection Using DFS</td>
+  </tr>
 </table>
