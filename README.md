@@ -133,4 +133,9 @@
        <td>33.</td>
     <td>Cycle Detection Using DFS</td>
   </tr>
+  </tr>
+       </tr>
+       <td>34.</td>
+    <td>Cheapest Flights with K Stops</td>
+  </tr>
 </table>
