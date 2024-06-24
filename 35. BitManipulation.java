@@ -1,8 +1,9 @@
 /*
 Numbers representation:
-    Positive: unsigned int
+Positive: unsigned int
 Negative numbers: int, signed int
 4 bytes: 32 bits
+
 Unsigned int a = 10 - 32 bits are going to be used to represent any number.
 0-- -- -- -- -- -- -- -- -- -- -- -- --(2 ^ 32) - 1
 00000000000000000000000000001010(binary) - > 1 x 2 ^ 3 + 0 x 2 ^ 2 + 1 x 2 ^ 1 + 0 x 2 ^ 0 = 10(decimal)
