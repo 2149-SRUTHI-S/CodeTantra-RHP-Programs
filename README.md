@@ -138,4 +138,9 @@
        <td>34.</td>
     <td>Cheapest Flights with K Stops</td>
   </tr>
+  </tr>
+       </tr>
+       <td>35.</td>
+    <td>Bit Manipulation</td>
+  </tr>
 </table>
