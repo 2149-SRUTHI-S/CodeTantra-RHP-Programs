@@ -148,4 +148,9 @@
        <td>36.</td>
     <td>Swapping Odd Bits with Even Bits</td>
   </tr>
+  </tr>
+       </tr>
+       <td>37.</td>
+    <td>Anding of Given Range</td>
+  </tr>
 </table>
