@@ -143,4 +143,9 @@
        <td>35.</td>
     <td>Bit Manipulation</td>
   </tr>
+  </tr>
+       </tr>
+       <td>36.</td>
+    <td>Swapping Odd Bits with Even Bits</td>
+  </tr>
 </table>
