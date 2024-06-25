@@ -153,4 +153,9 @@
        <td>37.</td>
     <td>Anding of Given Range</td>
   </tr>
+  </tr>
+       </tr>
+       <td>38.</td>
+    <td>Prefix Sum of Bits</td>
+  </tr>
 </table>
