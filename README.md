@@ -158,4 +158,9 @@
        <td>38.</td>
     <td>Prefix Sum of Bits</td>
   </tr>
+  </tr>
+       </tr>
+       <td>39.</td>
+    <td>Longest Palindromic Substring - DP</td>
+  </tr>
 </table>
