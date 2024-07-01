@@ -21,6 +21,11 @@ Table[i][i] = Str[Start] == Str[end] && table[i + 1][j - 1]
 import java.util.*; // o(n^2)-- O(n) ( only by using 1-D array)
 
 public class Main {
+    public static void print(String str, int start, int length) {
+        int end = start + length;
+        System.out.print(str.substring(start, end));
+        System.out.println();
+    }
 
     public static int Solution(String str) {
         int n = str.length();
@@ -39,6 +44,7 @@ public class Main {
                 start = i;
                 maxLength = 2;
             }
+
         }
 
         // length 3,4,5 or more
@@ -56,8 +62,8 @@ public class Main {
                 }
             }
         }
-        
-        //print(str, start , maxLength);
+
+        print(str, start, maxLength);
         return maxLength;
     }
 
