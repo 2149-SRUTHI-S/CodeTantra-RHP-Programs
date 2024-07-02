@@ -163,4 +163,9 @@
        <td>39.</td>
     <td>Longest Palindromic Substring - DP</td>
   </tr>
+  </tr>
+       </tr>
+       <td>40.</td>
+    <td>Subset Sum using Recursion</td>
+  </tr>
 </table>
