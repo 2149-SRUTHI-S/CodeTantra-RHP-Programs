@@ -33,8 +33,8 @@ class Main {
         int a[] = new int[n];
         for (int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
+
         }
-        
         int target = sc.nextInt();
         if (checkSubset(a, n, target) != 0)
             System.out.print("Yes");
