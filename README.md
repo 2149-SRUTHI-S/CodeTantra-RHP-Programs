@@ -171,6 +171,6 @@
   </tr>
        </tr>
        <td>41.</td>
-    <td>Subset Sum - DP</td>
+    <td>Subset Sum - Top Down DP</td>
   </tr>
 </table>
