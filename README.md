@@ -1,4 +1,4 @@
-<h2>CodeTantra RHP Trainingsssss Programs</h2>
+<h2>CodeTantra RHP Training Programs</h2>
 <br>
 <table>        
   <tr>
