@@ -168,4 +168,9 @@
        <td>40.</td>
     <td>Subset Sum using Recursion</td>
   </tr>
+  </tr>
+       </tr>
+       <td>41.</td>
+    <td>Subset Sum - DP</td>
+  </tr>
 </table>
