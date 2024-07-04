@@ -173,4 +173,9 @@
        <td>41.</td>
     <td>Subset Sum - Top Down DP</td>
   </tr>
+  </tr>
+       </tr>
+       <td>42.</td>
+    <td>Catalan Number</td>
+  </tr>
 </table>
