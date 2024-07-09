@@ -181,6 +181,6 @@
   </tr>
        </tr>
        <td>43.</td>
-    <td>Binary Tree Max Path Sum</td>
+    <td>Binary Tree - Max Path Sum</td>
   </tr>
 </table>
