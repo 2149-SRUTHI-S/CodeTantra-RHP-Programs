@@ -2,7 +2,7 @@
 <br>
 <table>        
   <tr>
-    <th>S.No</th>  
+    <th>S.No</th>
     <th>Program</th>
   </tr>    
   <tr>
