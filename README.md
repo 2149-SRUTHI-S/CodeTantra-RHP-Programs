@@ -183,4 +183,9 @@
        <td>43.</td>
     <td>Binary Tree - Max Path Sum</td>
   </tr>
+  </tr>
+       </tr>
+       <td>44.</td>
+    <td>Count Ways</td>
+  </tr>
 </table>
