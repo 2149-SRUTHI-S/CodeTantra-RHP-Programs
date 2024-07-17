@@ -1,4 +1,6 @@
 /*
+Water Connection Problem:
+
 Input1:  4 2
         1 2 60
         3 4 50
